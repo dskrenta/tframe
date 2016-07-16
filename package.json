@@ -1,0 +1,20 @@
+{
+  "name": "tframe",
+  "version": "1.0.0",
+  "description": "tframe",
+  "main": "",
+  "scripts": {
+    "start": "gulp",
+    "test": "standard"
+  },
+  "author": "David Skrenta",
+  "license": "",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-connect": "^4.0.0",
+    "gulp-riot": "^0.5.2",
+    "standard": "^7.1.2"
+  }
+}
